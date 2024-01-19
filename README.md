@@ -2,7 +2,7 @@
 # FastAPI Web Service with Kubernetes Deployment
 
 ## Project Overview
-This project is a FastAPI web service integrated with MongoDB, containerized using Docker, and deployed to a Kubernetes cluster. It's designed for educational purposes, demonstrating basic CRUD operations, database integration, and cloud-native deployment techniques.
+This project is a FastAPI web service integrated with MongoDB, containerized using Docker, and deployed to a Kubernetes cluster. It demonstrates basic CRUD operations, database integration, and cloud-native deployment techniques.
 
 ## Key Components
 - **FastAPI Application**: Python-based web service for CRUD operations.
